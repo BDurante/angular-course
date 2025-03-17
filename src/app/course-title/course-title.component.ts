@@ -15,5 +15,5 @@ export class CourseTitleComponent implements OnInit {
 
   ngOnInit() {
   }
-
+//hakdog
 }
